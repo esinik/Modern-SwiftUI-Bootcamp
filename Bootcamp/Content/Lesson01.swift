@@ -7,9 +7,9 @@
 
 import Foundation
 
-// MARK: - ÖDEV 1.1 Başlangıcı
-// ÖDEV 1.1
-print("********* ÖDEV 1.1 *******")
+/*
+// MARK: - ÖDEV 1.1  – Değişkenler ve Veri Tipleri
+print("********* ÖDEV 1.1  – Değişkenler ve Veri Tipleri *******")
 
 print("Hello World! (Yazmayanlar yazılımcı olamıyor diye duymuştum)")
 
@@ -38,3 +38,4 @@ print("Yıl: \(kacYillik)")
 print("Kullanıcı: \(username ?? "Bilinmiyor")")
 // MARK: - ÖDEV 1.1 bitişi
 
+*/
