@@ -9,6 +9,7 @@ Fonksiyonların tanımlanması, kullanımı, duruma bağlanmaları, kullanıcıd
 Ayrıca closure'lara örnek olarak diziler üzerinde işlemler gösterildi.
 Dosya proje **Content/Lesson02.swift** adında bulunmakta.
 
+
 # Ödev 1.3 - SwiftUI Layout'larıyla Harika Arayüzler Tasarlama
 SwiftUI'a giriş mahiyetinde temel bileşenler kullanılarak kartlar, text alanları, butonlar vs. tasarlama ödevi tamamlandı
 Bu ödevde:
@@ -16,3 +17,8 @@ Bu ödevde:
 * Yatayda sıralanmış bilgi kartlarının oluşturulması
 * Scrol edilebilir text alanının eklenmesi
 * Butonların eklemesi görevleri gerçekleştirilmiştir. 
+
+
+# Ödev 3 - @State ile basit sayaç uygulaması
+İşlenen derste gösterilen State yapısının uygulanması için basit bir sayaç uygulaması geliştirildi
+* Tek ekrandan oluşan yatay düzende sıralanmış 2 buton ile bir text bileşeni kullanıldı.
