@@ -22,3 +22,9 @@ Bu ödevde:
 # Ödev 3 - @State ile basit sayaç uygulaması
 İşlenen derste gösterilen State yapısının uygulanması için basit bir sayaç uygulaması geliştirildi
 * Tek ekrandan oluşan yatay düzende sıralanmış 2 buton ile bir text bileşeni kullanıldı.
+
+# Ödev 4 - MVVM tasarı deseniyle uygulama oluşturma
+İşlenen derste gösterilen MVVM tasarı desenine göre basit bir görev yönetim uygulaması geliştirildi 
+* Modeller oluşturuldu
+* ViewModel ara katman oluşturuldu
+* View ile modellerdeki verileri viewmodel kullanarak ekranlara yansıtma işlemi gerçekleştirildi
