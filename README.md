@@ -28,3 +28,11 @@ Bu ödevde:
 * Modeller oluşturuldu
 * ViewModel ara katman oluşturuldu
 * View ile modellerdeki verileri viewmodel kullanarak ekranlara yansıtma işlemi gerçekleştirildi
+
+# Ödev 6 - Form, Modal ve Detay ekranlarından oluşan Etkinlik Uygulaması
+İşlenen derste gösterilen bileşenleri kullanarak basit bir etkinlik uygulaması geliştirildi
+* Ön tanımlı birkaç etkinlikliğin listelenmesi
+* Yeni etkinlik ekleme
+* Var olan etkinliği silme
+* Etkinlik Detayına gitme
+* Etkinlik Detayında yapılan değişikliklerin listede görüntülenmesi
