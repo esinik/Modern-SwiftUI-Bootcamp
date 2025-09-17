@@ -36,3 +36,15 @@ Bu ödevde:
 * Var olan etkinliği silme
 * Etkinlik Detayına gitme
 * Etkinlik Detayında yapılan değişikliklerin listede görüntülenmesi
+
+# Ödev 8 - UserDefaults kullanılarak geliştirilen Note uygulaması
+İşlenen derste gösterilen bileşenleri kullanarak basit bir not uygulaması geliştirildi
+* Yeni Not ekleme 
+* Notları listeleme
+* Var olan notu güncelleme / silme
+
+# Ödev 9 - CoreData kullanılarak geliştirilen Note uygulaması
+İşlenen derste gösterilen bileşenleri kullanarak basit bir not uygulaması geliştirildi
+* Yeni Not ekleme 
+* Notları listeleme
+* Var olan notu güncelleme / silme
